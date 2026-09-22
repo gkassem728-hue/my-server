@@ -1,5 +1,9 @@
 {
   "status": "active",
-  "my_codes": [" aliss_1", "aliss2_2"],
-  "telegram": "رابط_قناتك"
+  "vip_codes": [
+    "aliss123",
+    "ضع_هنا_كود_ثاني"
+  ],
+  "expired_date": "2026-12-31 23:59:59",
+  "telegram": "https://t.me"
 }
