@@ -1,9 +1,9 @@
 {
   "status": "active",
-  "vip_codes": [
-    "aliss123",
-    "ضع_هنا_كود_ثاني"
-  ],
-  "expired_date": "2028-12-31 23:59:59",
-  "telegram": "https://t.me"
+  "user": "Abo123",
+  "username": "Abo123",
+  "pass": "KOOPR6-iRPztY0y28fCaDVSF",
+  "password": "KOOPR6-iRPztY0y28fCaDVSF",
+  "key": "الباسورد_القديم_هنا",
+  "EXP": "2029-12-31 23:59:59"
 }
