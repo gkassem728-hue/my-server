@@ -1,1 +1,6 @@
-
+{
+  "theme": "custom",
+  "bg_color": "#FF5555",
+  "remove_blue_img": true,
+  "custom_img": "https://tinyurl.com"
+}
